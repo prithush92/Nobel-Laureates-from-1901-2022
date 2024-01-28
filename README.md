@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Nobel Prize Winners (1901-2022)
+<h1 align="center"> 🥇 Exploratory Data Analysis on Nobel Prize Winners (1901-2022) 🥇 </h1>
 
 ## Overview
 
@@ -8,11 +8,11 @@ This GitHub repository contains a comprehensive exploratory data analysis (EDA) 
 
 Understanding the trends and patterns among Nobel Prize winners over the years can provide valuable insights into the fields of science, literature, peace, and more. This project aims to conduct exploratory data analysis to uncover interesting facts, visualize trends, and answer various questions related to Nobel laureates.
 
-## Dataset
+## 📝 Dataset
 
 The dataset used for this analysis is sourced from Nobel Prize API. It includes information about Nobel Prize laureates, their birthplaces, the categories in which they won, and other relevant details. The dataset is included in this repository for convenience.
 
-## Analysis
+## 🔎 Analysis 🔍
 
 The exploratory data analysis covers various aspects, including but not limited to:
 
